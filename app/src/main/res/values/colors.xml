@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#0B0B12</color>
+    <color name="launcher_bg">#171426</color>
+
+    <color name="launcher_bg_violet">#171426</color>
+    <color name="launcher_bg_teal">#06201F</color>
+    <color name="launcher_bg_coral">#241016</color>
+    <color name="launcher_bg_amber">#241A0B</color>
+    <color name="launcher_bg_mono">#000000</color>
+</resources>
