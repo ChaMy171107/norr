@@ -1,0 +1,12 @@
+# Chuẩn hoá xuống dòng cho repo đa nền tảng
+* text=auto eol=lf
+
+# Script Windows cần CRLF
+*.bat text eol=crlf
+
+# Tệp nhị phân
+*.jar binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.ttf binary

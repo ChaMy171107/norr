@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Norr Music</string>
+    <string name="widget_idle_subtitle">Chạm để mở ứng dụng</string>
+    <string name="widget_description">Điều khiển nhạc đang phát ngay trên màn hình chính</string>
+    <string name="widget_play">Phát hoặc tạm dừng</string>
+    <string name="widget_prev">Bài trước</string>
+    <string name="widget_next">Bài tiếp</string>
+
+    <!-- Thư viện -->
+    <string name="library_search_placeholder">Tìm bài hát, nghệ sĩ…</string>
+    <string name="need_storage_permission">Cần quyền truy cập file</string>
+    <string name="grant_permission">Cấp quyền</string>
+    <string name="retry">Thử lại</string>
+    <string name="scanning_library">Đang quét thư viện…</string>
+    <string name="rescan">Quét lại</string>
+
+    <!-- Phát nhạc -->
+    <string name="playback_options">Tuỳ chọn phát</string>
+    <string name="rename_file">Đổi tên file</string>
+    <string name="remove_artwork">Xoá ảnh bìa</string>
+
+    <!-- Danh sách phát -->
+    <string name="rename_playlist">Đổi tên danh sách</string>
+    <string name="delete_playlist">Xoá danh sách</string>
+    <string name="play_all">Phát tất cả</string>
+    <string name="playlist_empty">Danh sách còn trống</string>
+
+    <!-- Tải nhạc / quét playlist -->
+    <string name="import_search_placeholder">Tên bài, nghệ sĩ, album…</string>
+    <string name="youtube_link_placeholder">Dán link playlist YouTube…</string>
+
+    <!-- Cài đặt -->
+    <string name="library_section">Thư viện</string>
+
+    <!-- Lời thoại chung -->
+    <string name="cancel">Huủ</string>
+    <string name="save">Lưu</string>
+    <string name="edit_metadata_title">Sửa thông tin bài hát</string>
+    <string name="new_name">Tên mới</string>
+    <string name="playlist_name_hint">Ví dụ: Nhạc chill buổi tối</string>
+    <string name="add_to_playlist">Thêm vào danh sách</string>
+    <string name="play_next">Phát tiếp theo</string>
+    <string name="edit_title_artist">Sửa tên &amp; nghệ sĩ</string>
+
+    <!-- Sửa thông tin bài hát -->
+    <string name="edit_field_title">Tên bài</string>
+    <string name="edit_field_title_hint">Tên bài hát</string>
+    <string name="edit_field_artist">Nghệ sĩ</string>
+    <string name="edit_field_artist_hint">Tên ca sĩ / nhóm</string>
+    <string name="edit_field_album">Album</string>
+    <string name="edit_field_album_hint">Tên album (không bắt buộc)</string>
+    <string name="edit_metadata_note">Bỏ trống phần nào thì phần đó giữ nguyên. File M4A sẽ được đổi tên thành “Nghệ sĩ - Tên bài.m4a”.</string>
+
+    <!-- Đổi tên file -->
+    <string name="rename_title">Đổi tên file</string>
+    <string name="rename_current">Tên hiện tại: %1$s</string>
+    <string name="rename_extension_hint">Không nhập phần mở rộng, tôi sẽ giữ nguyên.</string>
+
+    <string name="change_artwork">Đổi ảnh bìa</string>
+    <string name="change_artwork_mp3_only">Đổi ảnh bìa (chỉ MP3)</string>
+</resources>

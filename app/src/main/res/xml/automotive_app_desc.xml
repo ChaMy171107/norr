@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Khai báo cho Android Auto / Automotive OS biết app có nội dung nghe nhạc.
+  Media3 MediaSessionService đã tự lo phần MediaBrowserService, chỉ cần tệp này.
+-->
+<automotiveApp>
+    <uses name="media" />
+</automotiveApp>
